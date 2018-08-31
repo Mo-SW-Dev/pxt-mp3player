@@ -10,7 +10,7 @@
         "README.md",
         "mp3player.ts",
         "mp3player.cpp",
-		"_locales/de/mp3player-strings.json",
+	"_locales/de/mp3player-strings.json",
         "_locales/de/mp3player-jsdoc-strings.json"
     ],
     "testFiles": [
